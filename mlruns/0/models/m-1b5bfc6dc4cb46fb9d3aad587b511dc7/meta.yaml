@@ -1,0 +1,10 @@
+artifact_location: file:///Users/chandureddy/Desktop/datascienceproject/mlruns/0/models/m-1b5bfc6dc4cb46fb9d3aad587b511dc7/artifacts
+creation_timestamp: 1757910379101
+experiment_id: '0'
+last_updated_timestamp: 1757910383074
+model_id: m-1b5bfc6dc4cb46fb9d3aad587b511dc7
+model_type: null
+name: model
+source_run_id: 154eae4816f64200b204013fa48b892b
+status: 2
+status_message: null
